@@ -1,0 +1,14 @@
+.menu {
+	display: flex;
+	list-style: none;
+}
+
+.menu-item {
+	text-decoration: none;
+	color: inherit;
+}
+
+/*.container,
+.container-fluid {
+	background-color: lightgreen;
+}*/
