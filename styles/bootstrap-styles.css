@@ -21,9 +21,7 @@ body {
 .logo {
 	text-transform: uppercase;
 	font-weight: 500;
-	font-size: 1.25rem;
 	letter-spacing: 3px;
-	grid-area: logo;
 }
 
 .menu,
@@ -34,21 +32,16 @@ body {
 }
 
 .menu-item {
-	padding-right: 0.5rem;
-	padding-left: 0.5rem;
 	text-transform: uppercase;
-}
-
-.menu-item > .menu-link {
-	text-decoration: none;
-	color: black;
-	letter-spacing: 1px;
 	font-size: 0.75rem;
 	font-weight: 500;
+	letter-spacing: 1px;
 }
 
 .social .icon {
 	height: 1rem;
+	padding-right: 0.5rem;
+	padding-left: 0.5rem;
 }
 
 /* Main area > header banner */
