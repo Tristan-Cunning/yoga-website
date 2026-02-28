@@ -127,12 +127,6 @@ body {
 	letter-spacing: 1px;
 }
 
-.hr {
-	background-color: lightgrey;
-	border: none;
-	height: 1px;
-}
-
 /* Articles area 
   -md suffix: we target medium screen sizes and above
 */
